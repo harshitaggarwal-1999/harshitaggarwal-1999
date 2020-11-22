@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Cars and anything about Technology**
 
-- 📫 How to reach me **harshitagg0310@gmail.com**
+- 📫 How to reach me Gmail : harshitagg0310@gmail.com
 
 - ⚡ Fun fact **Car manufacturer Volkswagen makes sausages.**
 
