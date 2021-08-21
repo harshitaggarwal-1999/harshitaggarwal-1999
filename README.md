@@ -5,13 +5,13 @@
 
 
 
-- 🔭 I’m currently working on **Django and polishing my DataStructures skills**
+- 🔭 I’m currently working on **React and polishing my DataStructures skills**
 
-- 🌱 I’m currently learning **Selenium, Django**
+- 🌱 I’m currently learning **MongoDB**
 
 - 👯 I’m looking to collaborate on **MySkills**
 
-- 🤝 I’m looking for help with **Django**
+- 🤝 I’m looking for help with **React**
 
 - 💬 Ask me about **Cars and anything about Technology**
 
